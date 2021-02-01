@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ae042a6e-a01b-48d4-9a8d-7b3eafa47a44",
+    "data": [
+      {
+        "text": "4",
+        "meta": "@sys.number",
+        "alias": "issue_number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a558e50-6582-45c5-a85a-2af3d0e6d15b",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "issue_number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "324d6906-c848-4bdc-b6ce-2844d99b08c5",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "issue_number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14cb3e51-0493-470b-8b03-4ba74d413ed3",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "issue_number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
