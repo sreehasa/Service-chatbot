@@ -1,0 +1,67 @@
+{
+  "id": "d27139d6-f489-4990-95b4-3aa6190caf8b",
+  "parentId": "4aa6d34a-e044-4b72-9659-2eb6c40a1cbd",
+  "rootParentId": "4aa6d34a-e044-4b72-9659-2eb6c40a1cbd",
+  "name": "Welcome-\u003eNotRegistered",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.Welcome-\u003eNotRegistered",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cc1acb7b-c657-477f-91d2-1e456d4b1d10",
+          "name": "person",
+          "required": true,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter your name"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c1b271e1-1491-4ee9-9640-cbb80e35c6b0",
+          "name": "number",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter your mobile number"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

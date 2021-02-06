@@ -1,0 +1,207 @@
+[
+  {
+    "id": "4b3403f8-b0bb-4253-bee1-6351543fa009",
+    "data": [
+      {
+        "text": "internet",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " is slow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca49f346-022d-45d8-9f8f-40449589d6ae",
+    "data": [
+      {
+        "text": "Internet",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " is down",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55a9d51e-179e-4231-aab3-f62d255712f2",
+    "data": [
+      {
+        "text": "Internet",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " Down",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64d698b0-7285-43c1-b88c-5b85ef74f604",
+    "data": [
+      {
+        "text": "internet",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " Buffering problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70b03e96-6ebe-4fce-b2e3-6d96e238b715",
+    "data": [
+      {
+        "text": "Buffering problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b002d87f-42cc-4d72-9732-fe58e4231340",
+    "data": [
+      {
+        "text": "No ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " connectivity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c510ae3-f694-47d8-957f-4b06e91c1b27",
+    "data": [
+      {
+        "text": "No connectivity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c28643d-8752-4dda-94db-10d41c2d9e43",
+    "data": [
+      {
+        "text": "internet",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " issue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f3c8476-012f-4f99-b15b-63ade65bab1c",
+    "data": [
+      {
+        "text": "slow ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30012189-6d8e-4054-abe1-b64e831cf322",
+    "data": [
+      {
+        "text": "having ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ecb29a1-7a3a-4c4d-bf2e-ef61e64d1d35",
+    "data": [
+      {
+        "text": "issues with ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

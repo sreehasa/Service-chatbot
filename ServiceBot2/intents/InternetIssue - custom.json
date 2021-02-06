@@ -1,0 +1,51 @@
+{
+  "id": "e8516a74-ceca-4ee4-a5b3-3379e8e6b3f6",
+  "parentId": "86b13d27-a793-4caa-8788-c03236fff9f6",
+  "rootParentId": "86b13d27-a793-4caa-8788-c03236fff9f6",
+  "name": "InternetIssue - custom",
+  "auto": true,
+  "contexts": [
+    "InternetIssue-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "InternetIssue.InternetIssue-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "15528176-f391-4cf3-800b-caf2605cbc3c",
+          "name": "issue_number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$issue_number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
